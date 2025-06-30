@@ -85,12 +85,6 @@ As VMs do Azure fazem parte da camada de **Infraestrutura como Serviço (IaaS)**
 
 ---
 
-## 🖼️ Capturas de Tela
-
-As imagens estão disponíveis na pasta [`/images`](./images/), demonstrando a criação de VMs, configuração de conjuntos de disponibilidade, e escalabilidade.
-
----
-
 ## 🔗 Referências Oficiais
 
 - [Overview de Availability Sets](https://learn.microsoft.com/azure/virtual-machines/availability-set-overview)
